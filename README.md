@@ -2,7 +2,7 @@
 
 ## What is this?
 CCIP - is a decentralised alternative to centralised bridges, and it solves an interoperability problem(blockchains are isolated networks and they cannot communicate natively).
-This technology allows us to create a programmable token transfers and wrap together value(tokens) with instructions(data/message) on what the receiving smart contract should do with those tokens on the destination chain.
+This technology allows us to send a cross chain transactions to transfer tokens, messages or even create a programmable token transfers and wrap together value(tokens) with instructions(data/message) on what the receiving smart contract should do with those tokens on the destination chain.
 
 ## What we can transfer via CCIP?
 1. Arbitrary data(in bytes). We can encode a function call on a source chain and execute this call on a destination chain.
